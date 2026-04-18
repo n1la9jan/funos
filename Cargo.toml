@@ -9,3 +9,7 @@ panic = "abort"
 [profile.release]
 panic = "abort"
 
+[[bin]]
+name = "os"
+test = false
+bench = false
