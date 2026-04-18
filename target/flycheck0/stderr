@@ -1,7 +1,0 @@
-   0.063571898s  INFO prepare_target{force=false package_id=os v0.1.0 (/home/sleepless/Projects/rust/os) target="os"}: cargo::core::compiler::fingerprint: stale: changed "/home/sleepless/Projects/rust/os/Cargo.toml"
-   0.063592346s  INFO prepare_target{force=false package_id=os v0.1.0 (/home/sleepless/Projects/rust/os) target="os"}: cargo::core::compiler::fingerprint:           (vs) "/home/sleepless/Projects/rust/os/target/debug/.fingerprint/os-221fa982bb5c03a0/dep-bin-os"
-   0.063595151s  INFO prepare_target{force=false package_id=os v0.1.0 (/home/sleepless/Projects/rust/os) target="os"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1776537596, nanos: 980593552 } < FileTime { seconds: 1776537602, nanos: 374264571 }
-   0.063622381s  INFO prepare_target{force=false package_id=os v0.1.0 (/home/sleepless/Projects/rust/os) target="os"}: cargo::core::compiler::fingerprint: fingerprint dirty for os v0.1.0 (/home/sleepless/Projects/rust/os)/Check { test: false }/TargetInner { name: "os", tested: false, benched: false, doc: true, ..: with_path("/home/sleepless/Projects/rust/os/src/main.rs", Edition2024) }
-   0.063634324s  INFO prepare_target{force=false package_id=os v0.1.0 (/home/sleepless/Projects/rust/os) target="os"}: cargo::core::compiler::fingerprint:     dirty: TargetConfigurationChanged
-    Checking os v0.1.0 (/home/sleepless/Projects/rust/os)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.09s
